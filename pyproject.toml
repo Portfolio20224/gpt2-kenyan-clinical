@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "gpt2-kenyan-clinical"
+version = "0.1.0"
+description = ""
+authors = ["Chadrack MAYAMBA"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+transformers = "^4.53.2"
+datasets = "^4.0.0"
+langchain-ollama = "^0.3.4"
+torch = "^2.7.1"
+gradio = "^5.36.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
