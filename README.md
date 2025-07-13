@@ -1,4 +1,4 @@
-# gpt2-kenyan-clinical
+# Fune-tuning gpt2-kenyan-clinical
 This repository demonstrates how Large Language Models (LLMs) can assist nurses in clinical decision-making, especially in resource-limited settings. It supports scenarios where nurses, often lacking specialist support, must handle real-world clinical cases across diverse counties and healthcare facility levels. The repository includes pipelines for data annotation, model training, inference, and evaluation using two open-source LLMs.
 ## Repository Structure
 * data_annotation/
